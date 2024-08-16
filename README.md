@@ -43,11 +43,9 @@ Add a Number:
 Call addNumber(numbers, 4) to add the number 4 to the numbers array.
 
 Remove a Number:
-<br>
 Call removeNumber(numbers, 3) to remove the number 3 from the numbers array.
 
 Sort the Numbers:
-<br>
 Call sortNumbers(numbers) to get a sorted copy of the numbers array.
 
 Calculate Sum:

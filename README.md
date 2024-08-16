@@ -17,6 +17,7 @@ Calculate Sum: Computes the sum of all numbers in the array.
 Calculate Average: Computes the average of the numbers in the array.
 
 Code Breakdown
+<br>
 Initialization:
 let numbers = [5, 3, 8, 1, 2]; — Initializes the array with a set of numbers.
 

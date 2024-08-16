@@ -3,6 +3,7 @@ Overview
 This JavaScript program demonstrates various array manipulation techniques, including adding, removing, sorting elements, and calculating sum and average. The program showcases how to perform these operations using core JavaScript array methods.
 
 Features
+<br>
 Initialize Array: Sets up an initial array of numbers.
 
 Add Number: Adds a new number to the end of the array.

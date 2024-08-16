@@ -22,6 +22,7 @@ Initialization:
 let numbers = [5, 3, 8, 1, 2]; — Initializes the array with a set of numbers.
 
 Function Definitions:
+<br>
 addNumber(array, number): Adds a specified number to the array.
 
 removeNumber(array, number): Removes the first occurrence of a specified number from the array.
@@ -33,16 +34,20 @@ calculateSum(array): Calculates the sum of all numbers in the array.
 calculateAverage(array): Calculates the average of the numbers in the array.
 
 Main Program:
+<br>
 Demonstrates the use of each function by modifying the numbers array and printing the results.
 
 Usage
+<br>
 Add a Number:
 Call addNumber(numbers, 4) to add the number 4 to the numbers array.
 
 Remove a Number:
+<br>
 Call removeNumber(numbers, 3) to remove the number 3 from the numbers array.
 
 Sort the Numbers:
+<br>
 Call sortNumbers(numbers) to get a sorted copy of the numbers array.
 
 Calculate Sum:
